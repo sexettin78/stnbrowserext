@@ -1,0 +1,2 @@
+{  "name": "İlk Eklentim",  "version": "1.0",  "manifest_version": 2,  "description": "Bu bir google chrome eklentisidir.",  "browser_action": {    "default_icon": "icon.png"  }} "browser_action": {  "default_icon" : "icon.jpg", 
+ "default_popup" : "index.html"}
